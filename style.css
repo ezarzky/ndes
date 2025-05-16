@@ -1,0 +1,22 @@
+.body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a0deff;
+}
+.navbar {
+  background-color: #678983;
+}
+.container1 {
+  padding: 2rem;
+  background-color: #caf4ff;
+}
+#galery {
+  background-color: #f9c5d5;
+}
+.footer1 {
+  background-color: #5ab2ff;
+  text-align: center;
+  padding: 1rem;
+}
